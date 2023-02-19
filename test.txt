@@ -1,0 +1,1 @@
+FOR T FROM 0 TO 2*PI+PI/50 STEP PI/50 DRAW(T, sin(T));
